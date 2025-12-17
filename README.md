@@ -67,4 +67,4 @@ Tools and Technologies:
 
     Install the required Python dependencies
 
-    Run the Jupyter notebooks to reproduce the simulations and plots
+    Run the Jupyter notebook to reproduce the simulations and plots
